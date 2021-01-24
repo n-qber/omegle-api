@@ -3,7 +3,7 @@ Well... it is a python api for omegle :)
 
 
 # Usage
-```
+```python
 from OmegleBot import OmegleBot
 
 
